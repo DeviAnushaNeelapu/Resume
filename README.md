@@ -3,10 +3,10 @@
 =================
 
 ### Personal Details :
-- Name: DeviAnusha .N<br>
-- mailid:devianusha@gmail.com<br>
-- phone no:+91 XXXXXXXXX <br>
-- address :vijaywada <br>
+- Name : DeviAnusha .N<br>
+- mailid : devianusha@gmail.com<br>
+- phone no : +91 XXXXXXXXX <br>
+- address : Vijaywada <br>
 
 ### Education Details :
 
